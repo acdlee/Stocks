@@ -1,0 +1,3 @@
+if you order the ids and make them continuous, you can use a binary search
+	when looking up the id in the user accounts for user's stocks and balance so on..
+	
